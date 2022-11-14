@@ -1,0 +1,10 @@
+{
+	"post1":{
+		"user":"keroro",
+		"message":"สวัสดีวันศุกร์"
+	},
+	"post2":{
+		"user":"kururu",
+		"message":"hello world"
+	}
+}
